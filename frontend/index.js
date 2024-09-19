@@ -1,4 +1,4 @@
-import { backend } from "declarations/backend";
+import { backend } from "./declarations/backend";
 
 const display = document.getElementById('display');
 const buttons = document.querySelectorAll('button');
